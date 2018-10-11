@@ -9,7 +9,7 @@ published: true
 post_date: 2017-04-24 11:20:25
 ---
 [cs_content][cs_section bg_color="#02aed6" parallax="false" separator_top_type="none" separator_top_height="50px" separator_top_angle_point="50" separator_bottom_type="none" separator_bottom_height="50px" separator_bottom_angle_point="50" bg_pattern="http://wp.mythicmedia.com/wp-content/uploads/2017/04/bg-pattern-2.png" class="cs-ta-center dark-section" style="margin: 0px;padding: 100px 0px;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/1" style="padding: 0px;"][x_custom_headline level="h1" accent="false" class="man"]Contact Mythic Media Now[/x_custom_headline][x_raw_content style="margin: 1.25em auto 1.25em;max-width: 45em;color: #fff;"]
-<p class="man">Let us know about your next project, and we will reply within a few hours.</p>
+<p class="man">Let us know about your next project. If you don't reach us right away, leave a message or an email and we will reply within a few hours.</p>
 [/x_raw_content]
 
 &nbsp;
