@@ -24,7 +24,7 @@ We are experts in enterprise architecture and cloud computing. We use stateless 
 
 User experience is what sets Mythic Media apart from other integrators. Dazzle and delight your users with intuitive UX and award-winning design.
 
-[/x_feature_box][x_gap size="50px" class="cs-hide-xl cs-hide-lg cs-hide-md"][/cs_column][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/4" style="padding: 0px;"][x_feature_box title="Data" title_color="" text_color="" graphic="icon" graphic_size="130px" graphic_shape="circle" graphic_color="#02aed6" graphic_bg_color="" align_h="center" align_v="top" side_graphic_spacing="20px" max_width="250px" graphic_border="border-width: 4px 4px 4px 4px; border-style: solid; border-color: ;" graphic_icon="line-chart" graphic_animation="flipInX" graphic_animation_offset="65" graphic_animation_delay="1500" class="mvn"]
+[/x_feature_box][x_gap size="50px" class="cs-hide-xl cs-hide-lg cs-hide-md"][/cs_column][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/4" style="padding: 0px;"][x_feature_box title="Data" title_color="" text_color="" graphic="icon" graphic_size="130px" graphic_shape="circle" graphic_color="#02aed6" graphic_bg_color="" align_h="center" align_v="top" side_graphic_spacing="20px" max_width="250px" graphic_border="border-width: 4px 4px 4px 4px; border-style: solid; border-color: ;" graphic_icon="lock" graphic_animation="flipInX" graphic_animation_offset="65" graphic_animation_delay="1500" class="mvn"]
 
 Capture, query, analyze, and repurpose data to understand your users and your market. We can integrate your systems to data warehouses on the cloud.
 
