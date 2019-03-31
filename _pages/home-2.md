@@ -57,10 +57,6 @@ In addition to developing robust and highly performant systems for our clients, 
 Mythic Media
 222 S Riverside Plz Chicago IL 60606
 
-[/x_raw_content][x_gap size="50px"][x_custom_headline level="h2" accent="false" class="man"]Call us:[/x_custom_headline][x_raw_content class="mts" style="color: #fff;"]
-
-one 773 294 twenty-twenty
-
 [/x_raw_content][x_gap size="50px"][x_custom_headline level="h2" accent="false" class="man"]Email us:[/x_custom_headline][x_raw_content class="mts" style="color: #fff;"]
 
 contact@mythicm.com
