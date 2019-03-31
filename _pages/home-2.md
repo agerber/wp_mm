@@ -65,15 +65,4 @@ one 773 294 twenty-twenty
 
 contact@mythicm.com
 
-[/x_raw_content][/cs_column][/cs_row][/cs_section]
-[cs_section bg_color="hsl(250, 11%, 16%)" parallax="false" separator_top_type="none" separator_top_height="50px" separator_top_angle_point="50" separator_bottom_type="none" separator_bottom_height="50px" separator_bottom_angle_point="50" class="dark-section" style="margin: 0px;padding: 50px 0px !important;"][cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column bg_color="#595959" fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="3/5" style="padding: 10px;"][x_google_map api_key="AIzaSyCV40oIHNBzWXSCNGDaCQ3DB1eMj109MQo" lat="55.0499881" lng="82.9159451" zoom="11" zoom_control="false" drag="false" height="345px" hue="#02aed6" no_container="false" class="man"]
-
-[x_google_map_marker lat="55.0499881" lng="82.9159451" start_open="true" info="Mythic Media Asia 86/1 Krasniy Prospekt, Novosibirsk, Russian Federation, 630005" image=""][/x_google_map][/cs_column][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="2/5" style="padding: 0px;"][x_custom_headline level="h2" accent="false" class="man"]Asia:[/x_custom_headline][x_raw_content class="mts" style="color: #fff;"]
-
-Mythic Media Asia
-86/1 Krasniy Prospekt,
-Novosibirsk, Russian Federation, 630005
-
-[/x_raw_content][x_gap size="50px"][x_custom_headline level="h2" accent="false" class="man"][/x_custom_headline][x_raw_content class="mts" style="color: #fff;"] Curious about Novosibirsk? Click to view a video about Russia's <a href="https://www.youtube.com/watch?v=66MJEzkU8HE">Silicon Forest</a>
-
 [/x_raw_content][/cs_column][/cs_row][/cs_section][/cs_content]
