@@ -4,7 +4,7 @@ post_title: Get In Touch
 author: wp
 post_excerpt: ""
 layout: page
-permalink: https://mythicmedia.com/get-in-touch/
+permalink: https://tandem.digital/get-in-touch/
 published: true
 post_date: 2017-04-24 11:20:25
 ---
@@ -14,7 +14,7 @@ post_date: 2017-04-24 11:20:25
 
 [/x_raw_content]
 
-[x_feature_headline level="h4" icon="envelope-o" class="man"]contact@mythicm.com[/x_feature_headline]
+[x_feature_headline level="h4" icon="envelope-o" class="man"]contact@tandem.digital[/x_feature_headline]
 
 [cs_row inner_container="true" marginless_columns="false" style="margin: 0px auto;padding: 0px;"][cs_column fade="false" fade_animation="in" fade_animation_offset="45px" fade_duration="750" type="1/2" style="padding: 0px;"]
 
